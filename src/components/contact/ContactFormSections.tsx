@@ -32,7 +32,8 @@ export default function ContactFormSection() {
         setPopupMessage("Failed to send. Please try again.");
       }
       setShowPopup(true);
-    } catch (error:any) {
+    } catch ( error ) {
+      console.error("Error submitting form:", error);
       setPopupMessage("An error occurred. Please try again.");
       setShowPopup(true);
     } finally {
@@ -61,7 +62,7 @@ export default function ContactFormSection() {
               {/* <div className="absolute inset-0 bg-gradient-to-t from-[#5C213C]/80 to-transparent"></div> */}
               <div className="absolute bottom-0 left-0 p-6 text-white">
                 <h3 className="text-2xl font-bold">Get in Touch</h3>
-                <p className="mt-2">We're excited to hear about your project!</p>
+                <p className="mt-2">We&apos;re excited to hear about your project!</p>
               </div>
             </div>
           </motion.div>
