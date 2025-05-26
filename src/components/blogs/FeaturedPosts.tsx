@@ -20,7 +20,7 @@ const featuredPosts = [
     category: "Backend",
     date: "June 2, 2023",
     readTime: "7 min read",
-    image: "/assets/blog-microservices.jpg"
+    image: "/images/services.jpg"
   }
 ];
 

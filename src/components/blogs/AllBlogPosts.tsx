@@ -11,7 +11,7 @@ const blogPosts = [
     category: "Web Development",
     date: "June 15, 2023",
     readTime: "6 min read",
-    image: "/assets/blog-react.jpg"
+    image: "/images/services.jpg"
   },
   {
     id: 4,
@@ -20,7 +20,7 @@ const blogPosts = [
     category: "Cloud Services",
     date: "July 2, 2023",
     readTime: "8 min read",
-    image: "/assets/blog-edge.jpg"
+    image: "/images/services.jpg"
   },
   {
     id: 5,
@@ -29,7 +29,7 @@ const blogPosts = [
     category: "Mobile Apps",
     date: "July 18, 2023",
     readTime: "7 min read",
-    image: "/assets/blog-flutter.jpg"
+    image: "/images/services.jpg"
   },
   {
     id: 6,
@@ -38,7 +38,7 @@ const blogPosts = [
     category: "Case Studies",
     date: "August 5, 2023",
     readTime: "9 min read",
-    image: "/assets/blog-ecommerce.jpg"
+    image: "/images/services.jpg"
   }
 ];
 

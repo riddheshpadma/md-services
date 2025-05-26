@@ -89,7 +89,7 @@ export default function ProcessSection() {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl aspect-square w-full border-4 border-white">
               <Image
-                src="/assets/ai-process.jpg"
+                src="/images/ai-process.jpg"
                 alt="AI Development Process"
                 fill
                 className="object-cover"

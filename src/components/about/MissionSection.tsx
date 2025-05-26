@@ -17,7 +17,7 @@ export default function MissionSection() {
           >
             <div className="relative rounded-3xl overflow-hidden shadow-2xl aspect-video w-full">
               <Image
-                src="/assets/about-mission.jpg"
+                src="/images/about-mission.jpg"
                 alt="Our Mission"
                 fill
                 className="object-cover"

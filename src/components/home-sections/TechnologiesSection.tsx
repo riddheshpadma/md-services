@@ -10,7 +10,7 @@ const techCategories = [
     icon: <Code className="w-6 h-6" />,
     technologies: [
       { name: "React", icon: "/images/tech/react.png" },
-      { name: "Next.js", icon: "/images/tech/nextjs.png" },
+      { name: "Next.js", icon: "/images/tech/next.png" },
       { name: "TypeScript", icon: "/images/tech/typescript.png" },
       { name: "Tailwind CSS", icon: "/images/tech/tailwind.png" },
     ],
