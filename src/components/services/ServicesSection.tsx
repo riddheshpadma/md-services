@@ -2,7 +2,7 @@
 
 import React from "react";
 import { motion } from "framer-motion";
-import { Code, Smartphone, Palette, ShoppingCart, Server, BarChart2, ArrowRight } from 'lucide-react';
+import { Code, Smartphone, Palette, ShoppingCart, Server, BarChart2 } from 'lucide-react';
 
 interface Service {
   icon: React.ReactNode;

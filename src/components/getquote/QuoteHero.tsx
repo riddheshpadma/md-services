@@ -38,7 +38,7 @@ export default function QuoteHero() {
           </h1>
 
           <p className="text-xl text-pink-100 max-w-3xl mx-auto">
-            Tell us about your project needs and we'll craft a tailored solution
+            Tell us about your project needs and we&apos;ll craft a tailored solution
             just for you
           </p>
         </motion.div>

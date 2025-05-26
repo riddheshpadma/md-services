@@ -1,6 +1,6 @@
 // components/about/HeroSection.tsx
 import { motion } from "framer-motion";
-import { BrainCircuit, Sparkles } from "lucide-react";
+import { BrainCircuit } from "lucide-react";
 import Image from "next/image";
 
 export default function HeroSection() {

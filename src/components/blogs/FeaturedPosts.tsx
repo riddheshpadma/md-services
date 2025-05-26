@@ -39,7 +39,7 @@ export default function FeaturedPosts() {
             Featured Content
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-[#5C213C] mt-2 mb-4">
-            Editor's Picks
+            Editor&apos;s Picks
           </h2>
           <p className="max-w-3xl mx-auto text-gray-600">
             Dive into our most insightful articles

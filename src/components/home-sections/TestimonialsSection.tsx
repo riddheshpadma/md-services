@@ -1,8 +1,7 @@
 // components/sections/TestimonialsSection.tsx
 import { motion } from "framer-motion";
 import Image from "next/image";
-import { ArrowRight, Quote } from "lucide-react";
-import Link from "next/link";
+import { Quote } from "lucide-react";
 
 const testimonials = [
   {
@@ -49,7 +48,7 @@ export default function TestimonialsSection() {
             What Our Clients Say
           </h2>
           <p className="max-w-2xl mx-auto text-lg text-gray-600">
-            Don't just take our word for it - hear from businesses we've transformed.
+            Don&apos;t just take our word for it - hear from businesses we&apos;ve transformed.
           </p>
         </motion.div>
 

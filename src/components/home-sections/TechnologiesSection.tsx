@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, Code, Cpu, Database, Cloud, Smartphone } from "lucide-react";
+import {  Code, Cpu, Database, Cloud, Smartphone } from "lucide-react";
 
 const techCategories = [
   {
@@ -136,7 +136,7 @@ export default function TechnologiesSection() {
               Need a Specific Technology?
             </h3>
             <p className="text-pink-100 mb-6">
-              We're constantly expanding our tech stack. Let us know if you need expertise in a particular technology.
+              We&apos;re constantly expanding our tech stack. Let us know if you need expertise in a particular technology.
             </p>
             <Link href="/contact">
               <motion.button

@@ -14,7 +14,7 @@ export const ServicesHero = ({
   imageUrl,
   title,
   subtitle,
-  ctaText = "Explore Our Services",
+  // ctaText = "Explore Our Services",
 }: ServicesHeroProps) => {
   return (
     <section className="relative overflow-hidden">

@@ -49,7 +49,7 @@ const ScheduleMeetCTA = () => {
           viewport={{ once: true }}
           className="text-xl text-pink-100 max-w-3xl mx-auto mb-10"
         >
-          Let's discuss how AI can transform your business operations and give you a competitive edge.
+          Let&apos;s discuss how AI can transform your business operations and give you a competitive edge.
         </motion.p>
         
         <motion.div

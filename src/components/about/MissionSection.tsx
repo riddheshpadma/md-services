@@ -56,7 +56,7 @@ export default function MissionSection() {
             <div className="bg-gradient-to-r from-[#5C213C] to-[#C5487E] p-1 rounded-xl shadow-lg">
               <div className="bg-white rounded-lg p-6">
                 <p className="text-xl font-bold text-[#5C213C]">
-                  "Our mission: To bridge the gap between cutting-edge AI and practical business solutions."
+                  &quot;Our mission: To bridge the gap between cutting-edge AI and practical business solutions.&quot;
                 </p>
               </div>
             </div>

@@ -32,7 +32,7 @@ export default function ContactFormSection() {
         setPopupMessage("Failed to send. Please try again.");
       }
       setShowPopup(true);
-    } catch (error) {
+    } catch (error:any) {
       setPopupMessage("An error occurred. Please try again.");
       setShowPopup(true);
     } finally {

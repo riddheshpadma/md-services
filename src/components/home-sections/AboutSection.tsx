@@ -11,12 +11,12 @@ const stats = [
   { value: "15+", label: "Technologies Mastered", icon: <BarChart2 className="w-6 h-6" /> },
 ];
 
-const teamMembers = [
-  { name: "Ravi Sharma", role: "CEO & Co-Founder", image: "/assets/team/ravi.jpg" },
-  { name: "Priya Patel", role: "CTO", image: "/assets/team/priya.jpg" },
-  { name: "Amit Desai", role: "Lead Designer", image: "/assets/team/amit.jpg" },
-  { name: "Neha Gupta", role: "Senior Developer", image: "/assets/team/neha.jpg" },
-];
+// const teamMembers = [
+//   { name: "Ravi Sharma", role: "CEO & Co-Founder", image: "/assets/team/ravi.jpg" },
+//   { name: "Priya Patel", role: "CTO", image: "/assets/team/priya.jpg" },
+//   { name: "Amit Desai", role: "Lead Designer", image: "/assets/team/amit.jpg" },
+//   { name: "Neha Gupta", role: "Senior Developer", image: "/assets/team/neha.jpg" },
+// ];
 
 export default function AboutSection() {
   return (

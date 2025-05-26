@@ -32,7 +32,7 @@ export default function ContactHero() {
             className="flex items-center justify-center gap-2 mb-6"
           >
             <span className="text-pink-200 font-semibold tracking-wider text-lg">
-              LET'S CONNECT
+              LET&apos;S CONNECT
             </span>
           </motion.div>
           
@@ -42,7 +42,7 @@ export default function ContactHero() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-4xl md:text-6xl font-bold text-white mb-8 leading-tight"
           >
-            Let's Build Something <br />
+            Let&apos;s Build Something <br />
             <span className="text-pink-400">Amazing Together</span>
           </motion.h1>
           
@@ -52,7 +52,7 @@ export default function ContactHero() {
             transition={{ duration: 0.6, delay: 0.4 }}
             className="text-xl text-pink-100 max-w-3xl mx-auto mb-10"
           >
-            Whether you have a project in mind or just want to chat about possibilities, we'd love to hear from you.
+            Whether you have a project in mind or just want to chat about possibilities, we&apos;d love to hear from you.
           </motion.p>
         </div>
       </div>

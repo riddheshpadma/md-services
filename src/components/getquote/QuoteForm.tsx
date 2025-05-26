@@ -32,7 +32,7 @@ export type QuoteFormData = {
 export default function QuoteForm() {
   const [step, setStep] = useState(1);
   const [isSubmitted, setIsSubmitted] = useState(false);
-  const { register, handleSubmit, watch, formState: { errors } } = useForm<QuoteFormData>({
+  const { register, handleSubmit, watch } = useForm<QuoteFormData>({
     defaultValues: {
       newsletter: true
     }
